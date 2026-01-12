@@ -1,6 +1,6 @@
 # Hugo-Grandjean
 # 💫 About Me:
-💻 42 Student in Luxembourg 🇱🇺<br>🔭 Currently working on Commun Core<br>💡 Learning C and Python 🐍<br>🇧🇪 Belgium 🇧🇪<br>
+💻 42 Student in Luxembourg 🇱🇺<br>🔭 Currently working on Commun Core<br>💡 Learning C and Python 🐍&#x1F1E7;&#x1F1EA; Belgium &#x1F1E7;&#x1F1EA;
 
 
 ## 🌐 Socials:
